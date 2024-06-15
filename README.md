@@ -2,7 +2,7 @@
 
 ### Working Links for the Project
 
-Web Application hosted on Azure -> http://74.225.163.41/CarRental/index.php
+Web Application hosted on Azure ->http://52.172.189.227/carrental-master/
 
 Github Repository -> https://github.com/tejasvibankhele/carrental
 
